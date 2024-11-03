@@ -4,6 +4,10 @@
 ![Spirited Away GIF](https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif)
 
 
+### GitHub Stats
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
 <!--
 **surajssc1232/surajssc1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
