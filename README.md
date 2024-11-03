@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 <!--
 **surajssc1232/surajssc1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
