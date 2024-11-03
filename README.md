@@ -3,25 +3,8 @@
 
 ![Spirited Away GIF](https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif)
 
-<table>
-  <tr>
-    <!-- Left column with your other content -->
-    <td>
-      ### About Me
-      Hi! I'm a Java Spring Boot developer with an interest in backend systems and APIs.
-      
-      ### Skills
-      ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-      ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-    </td>
-    
-    <!-- Right column with GitHub stats -->
-    <td>
-      ### GitHub Stats
-      ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-    </td>
-  </tr>
-</table>
+![Spirited Away GIF](https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif)
+
 
 
 <!--
