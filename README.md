@@ -3,7 +3,9 @@
 
 ![Spirited Away GIF](https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif)
 
-![Spirited Away GIF](https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif)
+### GitHub Stats
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 
 
