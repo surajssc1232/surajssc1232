@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suraj-chauhan-aa8683217/) | [Twitter](https://x.com/surajkhahai) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i like movies : [Letterboxd](https://letterboxd.com/kazzekami/)
+
+### Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
