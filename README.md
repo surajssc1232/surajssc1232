@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 ## Hi there 👋
 
-![Welcome](https://giphy.com/gifs/studio-ghibli-spirited-away-9TYOxSLqBIrK0)
+![Welcome]([https://giphy.com/gifs/studio-ghibli-spirited-away-9TYOxSLqBIrK0])
 
 <!--
 **surajssc1232/surajssc1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
