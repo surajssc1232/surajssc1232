@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surajkhahai)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/surajssc1232)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-gfg-username)
-[![Medium]([https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white))](https://medium.com/@surajsinghchauhan8923)
+
