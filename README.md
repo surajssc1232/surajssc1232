@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=surajssc1232&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 ## Hi there 👋
 
 ![Spirited Away GIF](https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif)
